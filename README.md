@@ -30,3 +30,4 @@ Skills: HTML5 / CSS3 / Bootstrap / Tailwind / JavaScript / React / React Router 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=muktaranidas)  
 
 ![Profile views](https://gpvc.arturio.dev/muktaranidas)  
+
